@@ -4,10 +4,7 @@ README — Network Analysis Project (FB100 Dataset)
 =================================================
 Author: Zhao Zhenyi
 
-This repository contains the full codebase and results for a Network Analysis homework
-based on the Facebook100 (FB100) datasets. Each question (Q2–Q6) is implemented as an
-independent Python script, with corresponding result folders for reproducibility
-and clarity.
+This repository contains the full codebase and results for a Network Analysis homework based on the Facebook100 (FB100) datasets. Each question (Q2–Q6) is implemented as an independent Python script, with corresponding result folders for reproducibility and clarity.The FB100 dataset and generated results are not included in this repository due to size constraints. All figures and tables in the report can be reproduced by running the provided code.
 
 --------------------------------------------------
 Project Structure Overview
